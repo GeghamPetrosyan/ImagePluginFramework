@@ -1,0 +1,14 @@
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\bin\Debug\net9.0\ImagePluginFramework.exe
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\bin\Debug\net9.0\ImagePluginFramework.deps.json
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\bin\Debug\net9.0\ImagePluginFramework.runtimeconfig.json
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\bin\Debug\net9.0\ImagePluginFramework.dll
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\bin\Debug\net9.0\ImagePluginFramework.pdb
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.AssemblyInfoInputs.cache
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.AssemblyInfo.cs
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.csproj.CoreCompileInputs.cache
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.dll
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\refint\ImagePluginFramework.dll
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.pdb
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ImagePluginFramework.genruntimeconfig.cache
+C:\Users\geram\Desktop\ImagePluginFramework\ImagePluginFramework\obj\Debug\net9.0\ref\ImagePluginFramework.dll
