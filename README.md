@@ -29,7 +29,7 @@ Supported example plugins:
 ---
 
 🧪 Sample Usage
-The TestApp/Program.cs demonstrates how to:
+The Program.cs demonstrates how to:
 
 Load plugins dynamically
 
